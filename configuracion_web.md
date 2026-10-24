@@ -1,3 +1,3 @@
 # Configuracion del sitio
 
-Tema del sitio: azul.
+Tema del sitio: rojo.
