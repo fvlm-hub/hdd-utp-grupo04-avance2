@@ -1,3 +1,4 @@
 # Configuracion del sitio
 
-Tema del sitio: rojo.
+Tema principal del sitio: rojo.
+Color de acento del  sitio: verde.
